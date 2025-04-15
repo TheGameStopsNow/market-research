@@ -6,13 +6,13 @@ This repository contains market research analysis, data, and interactive visuali
 
 The repository is organized into the following sections:
 
-1. `post_00_gme_manipulation_evidence/` - Analysis of GME stock manipulation evidence
-   - Contains detailed analysis of trading patterns, dark pool activity, and market structure implications
+1. `posts/` - Contains scripts and data for specific analysis posts:
+   - `post_00_gme_manipulation_evidence/` - Analysis of GME stock manipulation evidence
+      - Contains detailed analysis of trading patterns, dark pool activity, and market structure implications
+      - [Read the full analysis](./posts/post_00_gme_manipulation_evidence/GME-Manipulation-and-Key-Evidence.md)
+   - `post_01_timewarp/` - GME TWSCA (Time-Warped Spectral Correlation Analysis) analysis - [Read the full analysis](./posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues.md)
 
-2. `posts/` - Contains scripts and data for specific analysis posts:
-   - `post_01_timewarp/` - GME TWSCA (Time-Warped Spectral Correlation Analysis) analysis
-
-3. `extras/` - Contains the Streamlit dashboard and weekly data:
+2. `extras/` - Contains the Streamlit dashboard and weekly data:
    - `streamlit-twsca.py` - Main Streamlit app for interactive visualization
    - `plot_visuals_streamlit.py` - Plotting utilities for the Streamlit app
    - `data_streamlit/` - Weekly aggregated data for the dashboard
