@@ -11,7 +11,11 @@
 *Remember Roaring Kitty's bizarre tweets – an audio clip of a cat, a reference to Nolan's **Tenet**, and even a Coldplay song played backwards?* These weren't just shitposts. I believe they were clues, nudging us to look at $GME in a whole new way. Get ready – I put on my lab coat and **turned GME's chart into a music sheet**, using a novel Time-Warped Spectral Correlation Analysis (TWSCA) to expose a **repeating market rhythm** hidden beneath the chaos. This is data warfare, and **I'm firing my warning shot**.💥
 
 ---
-> 🎵 **The Music Box Plays:** Want to get in the right mindset? I've composed a little tune inspired by the market's rhythm. [Listen to "The Fractal Repeats"](./music/The_Fractal_Repeats.mp3) while reading this DD for the full experience. 🎧
+> 🎵 **The Music Box Plays:** Want to get in the right mindset? I've composed a few tunes inspired by the market's rhythm:
+> - Listen to [The Fractal Repeats](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Fractal_Repeats.mp3?raw=true) - cyclical patterns found in price movements 🎧
+> - Listen to [Awake under Skies](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3?raw=true) - a broader market perspective 🎧
+> - Listen to [Break The Mirror](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3?raw=true) - inverse correlations revealed 🎧
+> The full HD-WAV files are available in the [music](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/) folder. I just wish there was a marketplace for these tunes... 
 
 ## From Cryptic Tweets to a Theory of Market Rhythm
 
