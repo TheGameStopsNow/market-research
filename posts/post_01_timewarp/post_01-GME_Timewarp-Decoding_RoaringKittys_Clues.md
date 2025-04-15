@@ -12,9 +12,9 @@
 
 ---
 > 🎵 **The Music Box Plays:** Want to get in the right mindset? I've composed a few tunes inspired by the market's rhythm:
-> - Listen to [The Fractal Repeats](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Fractal_Repeats.mp3?raw=true) - cyclical patterns found in price movements 🎧
-> - Listen to [Awake under Skies](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3?raw=true) - a broader market perspective 🎧
-> - Listen to [Break The Mirror](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3?raw=true) - inverse correlations revealed 🎧
+> - Listen to [The Fractal Repeats](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Fractal_Repeats.mp3) - cyclical patterns found in price movements 🎧
+> - Listen to [Awake under Skies](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3) - a broader market perspective 🎧
+> - Listen to [Break The Mirror](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3) - inverse correlations revealed 🎧
 >
 > The full HD-WAV files are available in the [music](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/) folder. If there was only a marketplace for these tunes... 
 
