@@ -15,7 +15,8 @@
 > - Listen to [The Fractal Repeats](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Fractal_Repeats.mp3?raw=true) - cyclical patterns found in price movements 🎧
 > - Listen to [Awake under Skies](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3?raw=true) - a broader market perspective 🎧
 > - Listen to [Break The Mirror](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3?raw=true) - inverse correlations revealed 🎧
-> The full HD-WAV files are available in the [music](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/) folder. I just wish there was a marketplace for these tunes... 
+>
+> The full HD-WAV files are available in the [music](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/) folder. If there was only a marketplace for these tunes... 
 
 ## From Cryptic Tweets to a Theory of Market Rhythm
 
