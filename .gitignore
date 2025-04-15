@@ -1,1 +1,111 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files and directories
+**/data/
+**/data_streamlit/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.json
+
+# Generated figures
+**/figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs
+logs/
+*.log
+
+# Cache directories
+.cache/
+
+# System files
 .DS_Store
+Thumbs.db
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+*.egg
+MANIFEST
+
+# PyInstaller
+# *.manifest
+# *.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*.*
+.pytest_cache/
+.hypothesis/
+
+# Ignore root data tracking files/db
+data_tracking/
+data_tracking.db
+
+# Ignore generated figures within posts
+posts/*/figures/
+
+# DO NOT ignore post-specific data (needed for reproducibility per post appendix)
+# posts/*/data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.env
+
+# Generated files
+*.npy
+*.pickle
+*.pkl
+
+# Exceptions - do not ignore specific files
+!requirements.txt
+!posts/post_01_timewarp/data/*.csv
+!posts/post_01_timewarp_v2/data/*.csv *.backup
+
+# Don't ignore post asset images
+!posts/post_01_timewarp/**/*.assets/**/*.png
+!posts/post_01_timewarp/**/*.assets/**/*.jpg
+!posts/post_01_timewarp/**/*.assets/**/*.jpeg
+!posts/*/**/*.assets/**/*.png
+!posts/*/**/*.assets/**/*.jpg
+!posts/*/**/*.assets/**/*.jpeg
