@@ -1,0 +1,6 @@
+twsca
+pandas
+numpy
+matplotlib
+seaborn
+yfinance 

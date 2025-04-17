@@ -109,3 +109,10 @@ Thumbs.db
 !posts/*/**/*.assets/**/*.png
 !posts/*/**/*.assets/**/*.jpg
 !posts/*/**/*.assets/**/*.jpeg
+
+# Template directory
+posts/post_template/
+
+# Exclude appendix scripts (internal files not needed by visitors)
+**/appendix.py
+posts/**/scripts/appendix.py

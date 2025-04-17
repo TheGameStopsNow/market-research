@@ -11,12 +11,15 @@
 *Remember Roaring Kitty's bizarre tweets – an audio clip of a cat, a reference to Nolan's **Tenet**, and even a Coldplay song played backwards?* These weren't just shitposts. I believe they were clues, nudging us to look at $GME in a whole new way. Get ready – I put on my lab coat and **turned GME's chart into a music sheet**, using a novel Time-Warped Spectral Correlation Analysis (TWSCA) to expose a **repeating market rhythm** hidden beneath the chaos. This is data warfare, and **I'm firing my warning shot**.💥
 
 ---
-> 🎵 **The Music Box Plays:** Want to get in the right mindset? I've composed a few tunes inspired by the market's rhythm:
-> - Listen to [The Fractal Repeats](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Fractal_Repeats.mp3) - cyclical patterns found in price movements 🎧
-> - Listen to [Awake under Skies](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3) - a broader market perspective 🎧
-> - Listen to [Break The Mirror](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3) - inverse correlations revealed 🎧
+
+> 🎵 The Music Box Plays: Want to get in the right mindset? I've composed a few tunes inspired by the market's rhythm:
 >
-> The full HD-WAV files are available in the [music](https://github.com/TheGameStopsNow/market-research/blob/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/) folder. If there was only a marketplace for these tunes... 
+> **[The Game](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Game.mp3)** - Break the game down 🎧
+> **[Awake Under Skies](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3)** - Truth lies hidden just above the noise 🎧
+> **[TheGameStopsNow](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/TheGameStopsNow.mp3)** - The game is over 🎧
+> **[Break the Mirror](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3)** - Shatter the illusion of mainstream narratives 🎧
+> **[Dumb Money Now](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Dumb_Money_Now.mp3)** - Spoiler alert, it's not us 🎧
+>
 
 ## From Cryptic Tweets to a Theory of Market Rhythm
 
