@@ -13,13 +13,12 @@
 ---
 
 > 🎵 The Music Box Plays: Want to get in the right mindset? I've composed a few tunes inspired by the market's rhythm:
->
-> **[The Game](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/The_Game.mp3)** - Break the game down 🎧
-> **[Awake Under Skies](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Awake_under_Skies.mp3)** - Truth lies hidden just above the noise 🎧
-> **[TheGameStopsNow](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/TheGameStopsNow.mp3)** - The game is over 🎧
-> **[Break the Mirror](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Break_The_Mirror.mp3)** - Shatter the illusion of mainstream narratives 🎧
-> **[Dumb Money Now](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_01_timewarp/post_01-GME_Timewarp-Decoding_RoaringKittys_Clues/music/Dumb_Money_Now.mp3)** - Spoiler alert, it's not us 🎧
->
+
+>> **[Awake Under Skies](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/music/Awake%20Under%20Skies.mp3?raw=true)** - Truth lies hidden just above the noise 🎧
+>> **[Break the Mirror](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/music/Break%20The%20Mirror.mp3?raw=true)** - Shatter the illusion of mainstream narratives 🎧
+>> **[The Game](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/music/The%20Game.mp3?raw=true)** - Break the game down 🎧
+>> **[Dumb Money Now](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/music/Dumb%20Money%20Now.mp3?raw=true)** - Spoiler alert, it's not us 🎧
+>> **[TheGameStopsNow](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_01_timewarp/music/TheGameStopsNow.mp3?raw=true)** - The game is over 🎧
 
 ## From Cryptic Tweets to a Theory of Market Rhythm
 

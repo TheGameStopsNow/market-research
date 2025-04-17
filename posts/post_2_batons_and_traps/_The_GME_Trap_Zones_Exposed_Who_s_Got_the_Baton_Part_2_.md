@@ -7,12 +7,10 @@
 ---
 
 > 🎵 The Music Box Plays: Want to get in the right mindset? I've composed a few tunes inspired by the market's rhythm:
->
-> [**Dumb Money Now**](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_2_batons_and_traps/music/Dumb_Money_Now.mp3?raw=true) - Spoiler alert, it's not us 🎧
-> [**Euphoria in Motion**](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_2_batons_and_traps/music/Euphoria_in_Motion.mp3?raw=true) - excitement of reproducible analysis methods 🎧
-> [**The Game**](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_2_batons_and_traps/music/The_Game.mp3?raw=true) - break the game down 🎧
-> [**Bar Heavyweight**](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_2_batons_and_traps/music/Bar_Heavyweight.mp3?raw=true) - inverse correlations revealed 🎧
-> [**TheGameStopsNow**](https://raw.githubusercontent.com/TheGameStopsNow/market-research/refs/heads/main/posts/post_2_batons_and_traps/music/TheGameStopsNow.mp3?raw=true) - the game is over 🎧
+
+>> **[Euphoria in Motion](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_2_batons_and_traps/music/Euphoria%20in%20Motion.mp3?raw=true)** - Excitement of reproducible analysis methods 🎧
+>> **[Bar Heavyweight](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_2_batons_and_traps/music/Bar%20Heavyweight.mp3?raw=true)** - Inverse correlations revealed 🎧
+>> **[The Game](https://raw.githubusercontent.com/TheGameStopsNow/market-research/main/posts/post_2_batons_and_traps/music/The%20Game.mp3?raw=true)** - Break the game down 🎧
 
 *Alright everyone, lab coats on – it's time to dissect the **Trap Zones** and name some of the stocks orchestrating $GME's moves. In Part 1 we set the stage (how RoaringKitty's clues led to uncovering a hidden market melody). Now we're turning up the volume on the **actual findings**. This is where theory meets hard data.* 🚀
 
